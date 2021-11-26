@@ -3,7 +3,7 @@
     "description": "Tencent Map with search for Laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/201124159/tutu-laravel-admin-ext/tencent-map",
+    "homepage": "https://github.com/201124159/laravel-admin-ext-tencent-map",
     "license": "MIT",
     "authors": [
         {
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Jxlwqq\\TencentMap\\": "src/"
+            "Tutu\\LaravelAdminTencentMap\\": "src/"
         }
     },
     "extra": {
